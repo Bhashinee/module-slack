@@ -1,0 +1,7 @@
+[project]
+org-name = "ballerinax"
+version = "0.1.0"
+license= ["Apache-2.0"]
+authors = ["WSO2"]
+keywords = ["slack"]
+repository = "https://github.com/wso2-ballerina/module-slack"
